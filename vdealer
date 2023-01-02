@@ -1,0 +1,121 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.6.0-nightly.2022-03-24",
+    "WKitJsonVersion": "0.0.1",
+    "GameVersion": 1500,
+    "ExportedDateTime": "2022-03-27T09:06:47.1077346Z",
+    "DataType": "CR2W"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "Type": "JsonResource",
+      "Properties": {
+        "cookingPlatform": "PLATFORM_PC",
+        "root": {
+          "HandleId": "0",
+          "Data": {
+            "Type": "localizationPersistenceOnScreenEntries",
+            "Properties": {
+              "entries": [
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-No-Deals1",
+                    "femaleVariant": "Virtuální překupník aut pro vás v tuto chvíli nemá žádnou nabídku!"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-No-Deals2",
+                    "femaleVariant": "Prosím, nainstalujte jakékoliv podporované mody a vraťte se zpět."
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Sponsored",
+                    "femaleVariant": "Sponzorováno "
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Lot",
+                    "femaleVariant": "Vozidlo"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Of",
+                    "femaleVariant": "z"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Available",
+                    "femaleVariant": "dostupné"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Purchased",
+                    "femaleVariant": "vyprodáno!"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Eddies",
+                    "femaleVariant": "nedostatek edáčů"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Cred",
+                    "femaleVariant": "nedostatek reputace"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Previous",
+                    "femaleVariant": "Předchozí"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Next",
+                    "femaleVariant": "Další"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-Buy",
+                    "femaleVariant": "Koupit"
+                  }
+                },
+                {
+                  "Type": "localizationPersistenceOnScreenEntry",
+                  "Properties": {
+                    "secondaryKey": "Mod-Car-Dealer-ChangeColor",
+                    "femaleVariant": "Změnit barvu"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
